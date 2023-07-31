@@ -1,5 +1,5 @@
 
-# Employees Burnout Analysis
+# Employees Burnout Analysis and Prediction
 
 Welcome to the Employees Burnout Analysis and Prediction project! This repository contains all the resources and materials needed to analyze and predict employee burnout based on various factors.
 
@@ -42,6 +42,6 @@ Then you may deploy the project.
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code and resources according to the terms of the license.
 
 ## Feedback and Support
-If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at usman.bvp@gmail.com.
+If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at sheebasulthana642@gmail.com
 
 Happy analyzing and predicting!
